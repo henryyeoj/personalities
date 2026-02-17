@@ -35,7 +35,7 @@ const personalitiesData = [
   },
   {
     name: "Hawkeye",
-    image: "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2d/Hawkeye.PNG/revision/latest?cb=20191217060632&path-prefix=de",
+    image: "https://m.media-amazon.com/images/M/MV5BMTAxMTM0MjA1NDleQTJeQWpwZ15BbWU3MDA0Nzk2Nzc@._V1_.jpg",
     description: "Clint Barton is an expert marksman and archer, utilizing a variety of specialized 'trick arrows' to fight alongside the Avengers."
   },
   {
